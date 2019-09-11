@@ -15,8 +15,6 @@
     - [NLP Advanced](#sec-1-2-5)
     - [Cheatsheet](#sec-1-2-6)
     - [Feed](#sec-1-2-7)
-  - [[Startup, Product and Team](./STARTUP.md)](#sec-1-3)
-  - [[Personal](./PERSONAL.md)](#sec-1-4)
 
 # a Student of the Game<a id="sec-1"></a>
 
@@ -273,7 +271,3 @@
 ### Feed<a id="sec-1-2-7"></a>
 
 1.  [FloydHub Blog](https://blog.floydhub.com/)
-
-## [Startup, Product and Team](./STARTUP.md)<a id="sec-1-3"></a>
-
-## [Personal](./PERSONAL.md)<a id="sec-1-4"></a>

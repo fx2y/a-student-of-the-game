@@ -151,29 +151,89 @@
 
 ## AI
 
-### Newsletter
+### Newsletter     :newspaper:
 
--   [data-science-weekly](https://www.datascienceweekly.org/newsletters)
+-   [DataScienceWeekly](https://www.datascienceweekly.org/newsletters)
 
--   [data-eng-weekly](https://dataengweekly.com/archive.html)
+-   [DataEngWeekly](https://dataengweekly.com/archive.html)
 
--   [data-elixir](https://dataelixir.com/)
+-   [DataElixir](https://dataelixir.com/)
 
--   [ai-weekly](http://aiweekly.co/issues)
+-   [AIWeekly](http://aiweekly.co/issues)
 
--   [inside-ai](https://inside.com/lists/ai/recent_issues)
+-   [InsideAI](https://inside.com/lists/ai/recent_issues)
 
--   [ai-digest](https://aidigest.net/digests)
+-   [AIDigest](https://aidigest.net/digests)
 
--   [machine-learning-engineer](https://ethical.institute/mle.html)
+-   [MachineLearningEngineer](https://ethical.institute/mle.html)
 
--   [deep-learning-weekly](https://www.deeplearningweekly.com/)
+-   [DeepLearningWeekly](https://www.deeplearningweekly.com/)
+
+### VideoTalks     :arrow_forward:
+
+-   [MLPapersExplained](https://www.youtube.com/user/amirfzpr/videos)
+
+-   [HenryAILabs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
+
+-   [Kaggle](https://www.youtube.com/user/kaggledotcom/videos)
+
+-   [YannicKilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/videos)
+
+-   [TwoMinutePapers](https://www.youtube.com/user/keeroyz/videos)
+
+-   [PapersWeLove](https://www.youtube.com/user/PapersWeLove/videos)
+
+-   [ArxivInsights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/videos)
+
+-   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
+
+-   [NeurIPS-2018](https://nips.cc/Conferences/2018/Schedule)
+
+### Summer School
+
+-   [Machine Learning Summer School | Buenos Aires](http://mlss2018.net.ar/schedule.php)
+
+-   [GitHub - tmlss2018/PracticalSessions](https://github.com/tmlss2018/PracticalSessions)
+
+-   [Program – ACAI 2018](http://acai2018.unife.it/program/)
+
+-   [Data Science Africa](http://www.datascienceafrica.org)
+
+-   [MLSS-2019-Africa](https://mlssafrica.com/programme-schedule/)
+
+-   [Deep Learning for Medical Imaging School](https://deepimaging2019.sciencesconf.org/resource/page/id/1)
+
+-   [Data Science Summer School (DS3)](https://www.ds3-datascience-polytechnique.fr/program/)
+
+-   [North African Machine Learning Summer School](https://nassma.um6p.ma/lectures/)
+
+-   [Advanced Statistics and Data Mining Summer School 2019](http://www.dia.fi.upm.es/ASDM)
+
+-   [Eastern European Machine Learning Summer School](https://www.eeml.eu/resources)
+
+-   [International Summer School on Deep Learning](http://2019.dl-lab.eu/schedule/)
+
+-   [Reinforcement Learning Summer School](https://rlss.inria.fr/program/)
+
+-   [Lisbon Machine Learning School](http://lxmls.it.pt/2019/?page_id=40)
+
+-   [MLSS-2019-London](https://sites.google.com/view/mlss-2019/schedule)
+
+-   [#NGSchool2018 Materials | #NGSchool](https://ngschool.eu/index.php/2018/workshops)
+
+-   [Indaba 2019](http://www.deeplearningindaba.com/)
+
+-   [Deep|Bayes – Summer school on Deep Learning and Bayesian Methods](http://deepbayes.ru/)
+
+-   [DLinNLP 2019](https://dlinnlp.github.io/index.html)
+
+-   [Gaussian Process and Uncertainty Quantification Summer School 2019](http://gpss.cc/gpss19/)
 
 ### Math
 
--   [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+-   [MathematicsForMachineLearning](https://mml-book.github.io/book/mml-book.pdf)
 
--   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book no so;utions March 2019.pdf)
+-   [FoundationsOfDataScience](https://www.cs.cornell.edu/jeh/book no so;utions March 2019.pdf)
 
 ### Fundamental
 
@@ -218,8 +278,6 @@
 -   [Deep Learning For Coders—36 hours of lessons for free](http://course18.fast.ai/ml)
 
 -   [GitHub - fastai/numerical-linear-algebra: Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course](https://github.com/fastai/numerical-linear-algebra)
-
--   [GitHub - deep-learning-indaba/indaba-pracs-2019](https://github.com/deep-learning-indaba/indaba-pracs-2019)
 
 -   [Applied Machine Learning | David Forsyth | Springer](https://www.springer.com/gp/book/9783030181130)
 

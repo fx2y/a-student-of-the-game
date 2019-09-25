@@ -1,273 +1,272 @@
-- [a Student of the Game](#sec-1)
-  - [Software](#sec-1-1)
-    - [General](#sec-1-1-1)
-    - [System Design](#sec-1-1-2)
-    - [Elixir + OTP](#sec-1-1-3)
-    - [Go + Rust](#sec-1-1-4)
-    - [Data](#sec-1-1-5)
-    - [Python](#sec-1-1-6)
-    - [Frontend Tech](#sec-1-1-7)
-  - [AI](#sec-1-2)
-    - [Math](#sec-1-2-1)
-    - [Fundamental](#sec-1-2-2)
-    - [Advanced](#sec-1-2-3)
-    - [NLP](#sec-1-2-4)
-    - [NLP Advanced](#sec-1-2-5)
-    - [Cheatsheet](#sec-1-2-6)
-    - [Feed](#sec-1-2-7)
 
-# a Student of the Game<a id="sec-1"></a>
+# a Student of the Game
 
-## Software<a id="sec-1-1"></a>
+## Software
 
-### General<a id="sec-1-1-1"></a>
+### General
 
-1.  [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
+-   [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 
-    1.  [Short notes for GATE CSE](https://www.geeksforgeeks.org/lmns-gq/)
+    -   [Short notes for GATE CSE](https://www.geeksforgeeks.org/lmns-gq/)
 
-    2.  [GATE CS Topic wise preparation Notes](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
+    -   [GATE CS Topic wise preparation Notes](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
 
-    3.  [UGC NET CS Notes according to syllabus of Paper-II](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-ii/)
+    -   [UGC NET CS Notes according to syllabus of Paper-II](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-ii/)
 
-    4.  [UGC NET CS Notes according to syllabus of Paper-III (Core group)](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/)
+    -   [UGC NET CS Notes according to syllabus of Paper-III (Core group)](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/)
 
-2.  [Department of Computer Science and Technology – Course pages 2018–19: Courses 2018–19](https://www.cl.cam.ac.uk/teaching/1819/)
+-   [Department of Computer Science and Technology – Course pages 2018–19: Courses 2018–19](https://www.cl.cam.ac.uk/teaching/1819/)
 
-3.  [Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter](https://github.com/OpenGenus/cosmos)
+-   [Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter](https://github.com/OpenGenus/cosmos)
 
-4.  [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+-   [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
-5.  [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
+-   [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
 
-6.  [A curated awesome list of lists of interview questions.](https://github.com/MaximAbramchuck/awesome-interview-questions)
+-   [A curated awesome list of lists of interview questions.](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-7.  [100+ Python challenging programming exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100+ Python challenging programming exercises.txt)
+-   [100+ Python challenging programming exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100+ Python challenging programming exercises.txt)
 
-### System Design<a id="sec-1-1-2"></a>
+### System Design
 
-1.  [The System Design Primer: Learn how to design large-scale systems. Prep for the system design interview.](https://github.com/donnemartin/system-design-primer)
+-   [The System Design Primer: Learn how to design large-scale systems. Prep for the system design interview.](https://github.com/donnemartin/system-design-primer)
 
-2.  [Design Patterns for Humans: An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
+-   [Design Patterns for Humans: An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 
-3.  [A pattern language for microservices | Microservice Architecture](https://microservices.io/patterns/index.html)
+-   [A pattern language for microservices | Microservice Architecture](https://microservices.io/patterns/index.html)
 
-4.  [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+-   [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 
-5.  [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# by Scott Wlaschin | The Pragmatic Bookshelf](https://pragprog.com/book/swdddf/domain-modeling-made-functional)
+-   [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# by Scott Wlaschin | The Pragmatic Bookshelf](https://pragprog.com/book/swdddf/domain-modeling-made-functional)
 
-6.  [A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns)
+-   [A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns)
 
-7.  [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
+-   [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
 
-8.  [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
+-   [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
 
-### Elixir + OTP<a id="sec-1-1-3"></a>
+### elixir-otp
 
-1.  [Learn erlang in Y Minutes](https://learnxinyminutes.com/docs/erlang/)
+-   TODO [learn-x-in-y-minutes](https://learnxinyminutes.com/) ([erlang](https://learnxinyminutes.com/docs/erlang/) [elixir](https://learnxinyminutes.com/docs/elixir/))     :page_facing_up:
 
-2.  [Learn elixir in Y Minutes](https://learnxinyminutes.com/docs/elixir/)
+-   TODO [make-a-lisp-process](https://github.com/kanaka/mal/blob/master/process/guide.md) ([erlang](https://github.com/kanaka/mal/tree/master/erlang) [elixir](https://github.com/kanaka/mal/tree/master/elixir))     :page_facing_up:
 
-3.  [Make a Lisp](https://github.com/kanaka/mal)
+-   newsletter ([elixir-digest](https://elixirdigest.net/digests) [elixir-weekly](https://elixirweekly.net/issues) [awesome-elixir](https://elixir.libhunt.com/newsletter/archive))     :newspaper:
 
-    1.  [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
+-   elixir-cqrs
 
-    2.  [Erlang](https://github.com/kanaka/mal/tree/master/erlang)
+    -   [building-conduit](https://leanpub.com/buildingconduit/read)     :book:
 
-    3.  [Elixir](https://github.com/kanaka/mal/tree/master/elixir)
+-   elixir-rtc ([membrane-framework](https://github.com/membraneframework) [xirsys](https://github.com/xirsys))     :book:
 
-4.  [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
+-   backlog
 
-5.  [Learn You Some Erlang for Great Good!](https://learnyousomeerlang.com/content)
+    -   [armstrong-thesis](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
-6.  [Elixir School](https://elixirschool.com/en/)
+    -   [learn-you-some-erlang](https://learnyousomeerlang.com/content)
 
-7.  [Blog · Elixir School](https://elixirschool.com/blog/)
+    -   [elixir-school](https://elixirschool.com/en/) ([blog](https://elixirschool.com/blog/))
 
-8.  [Elixir-learning screencasts | Alchemist Camp](https://alchemist.camp/episodes)
+    -   [alchemist-camp](https://alchemist.camp/episodes)
 
-9.  [LiveView demos, examples, and sample apps thread! - Chat / Discussions - Elixir Forum](https://elixirforum.com/t/liveview-demos-examples-and-sample-apps-thread/21073/40)
+    -   [liveview-forum](https://elixirforum.com/tags/liveview)
 
-### Go + Rust<a id="sec-1-1-4"></a>
+### go-rust
 
-1.  [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
+-   TODO [learn-x-in-y-minutes](https://learnxinyminutes.com/) ([go](https://learnxinyminutes.com/docs/go/) [rust](https://learnxinyminutes.com/docs/rust/))
 
-2.  [Learn rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
+-   TODO [make-a-lisp-process](https://github.com/kanaka/mal/blob/master/process/guide.md) ([go](https://github.com/kanaka/mal/tree/master/go) [rust](https://github.com/kanaka/mal/tree/master/rust))
 
-3.  [Make a Lisp](https://github.com/kanaka/mal)
+-   cheatsheet
 
-    1.  [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
+-   newsletter
 
-    2.  [Go](https://github.com/kanaka/mal/tree/master/go)
+-   [learn-go-with-tests](https://quii.gitbook.io/learn-go-with-tests/)
 
-    3.  [Rust](https://github.com/kanaka/mal/tree/master/rust)
+-   [mit-distributed-systems-courses](https://pdos.csail.mit.edu/6.824/schedule.html)
 
-4.  [Go 101 (an online book for Go programming language + Golang knowledge base)](https://go101.org/article/101.html)
+-   [go-training](https://github.com/ardanlabs/gotraining) ([ultimate-go](https://github.com/ardanlabs/gotraining/blob/master/topics/courses/go/README.md) [writing-web-services-in-go](https://github.com/ardanlabs/service-training) [repo](https://github.com/ardanlabs/service) [ml-ai-data-science](https://github.com/ardanlabs/training-ai) [important-reading](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md))
 
-    1.  [Go Details 101](https://go101.org/article/details.html)
+-   [pingcap-training-courses](https://github.com/pingcap/talent-plan) ([distributed-systems-in-go](https://github.com/pingcap/talent-plan/tree/master/tidb) [distributed-systems-in-rust](https://github.com/pingcap/talent-plan/tree/master/dss) [tikv-deep-dive](https://tikv.org/docs/deep-dive/introduction/) [practical-networked-applications-in-rust](https://github.com/pingcap/talent-plan/tree/master/rust))
 
-    2.  [Go FAQ 101](https://go101.org/article/unofficial-faq.html)
+### Data
 
-    3.  [Go Tips 101](https://go101.org/article/tips.html)
+-   [The Art of PostgreSQL: a modern PostgreSQL book in 2019](https://theartofpostgresql.com/)
 
-5.  [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+-   [CMU 15-445/645 :: Intro to Database Systems (Fall 2019)](https://15445.courses.cs.cmu.edu/fall2019/)
 
-6.  [6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+-   [CMU 15-721 :: Advanced Database Systems (Spring 2019)](https://15721.courses.cs.cmu.edu/spring2019/)
 
-7.  [Go Training Class Material](https://github.com/ardanlabs/gotraining)
+-   [Designing Data-Intensive Applications (DDIA) — an O’Reilly book by Martin Kleppmann (The Wild Boar Book)](https://dataintensive.net/)
 
-    1.  [Ultimate Go](https://github.com/ardanlabs/gotraining/blob/master/topics/courses/go/README.md)
+-   [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
-    2.  [GitHub - ardanlabs/service-training: The training material for the service repo](https://github.com/ardanlabs/service-training)
+-   [A list of useful resources to learn Data Engineering from scratch](https://github.com/adilkhash/Data-Engineering-HowTo)
 
-    3.  [GitHub - ardanlabs/service: Starter code for writing web services in Go](https://github.com/ardanlabs/service)
+-   [Large-Scale Data Processing and Optimisation | 2018-2019 | Cambridge Computer Laboratory](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/index.html)
 
-    4.  [ML/AI and Data Science Training Materials](https://github.com/ardanlabs/training-ai)
+-   [A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
-    5.  [Important Reading](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md)
+### Python
 
-8.  [PingCAP training courses](https://github.com/pingcap/talent-plan)
+-   [Learn python3 in Y Minutes](https://learnxinyminutes.com/docs/python3/)
 
-    1.  [Distributed Systems in Go](https://github.com/pingcap/talent-plan/tree/master/tidb)
+-   [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/docs/pythonstatcomp/)
 
-    2.  [Distributed Systems in Rust](https://github.com/pingcap/talent-plan/tree/master/dss)
+-   [Make a Lisp](https://github.com/kanaka/mal)
 
-    3.  [TiKV Deep Dive](https://tikv.org/docs/deep-dive/introduction/)
+    -   [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
 
-    4.  [Practical Networked Applications in Rust](https://github.com/pingcap/talent-plan/tree/master/rust)
+    -   [Python](https://github.com/kanaka/mal/tree/master/python)
 
-### Data<a id="sec-1-1-5"></a>
+-   [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
-1.  [The Art of PostgreSQL: a modern PostgreSQL book in 2019](https://theartofpostgresql.com/)
+### Frontend Tech
 
-2.  [CMU 15-445/645 :: Intro to Database Systems (Fall 2019)](https://15445.courses.cs.cmu.edu/fall2019/)
+-   [Learn javascript in Y Minutes](https://learnxinyminutes.com/docs/javascript/)
 
-3.  [CMU 15-721 :: Advanced Database Systems (Spring 2019)](https://15721.courses.cs.cmu.edu/spring2019/)
+-   [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
 
-4.  [Designing Data-Intensive Applications (DDIA) — an O’Reilly book by Martin Kleppmann (The Wild Boar Book)](https://dataintensive.net/)
+-   [Make a Lisp](https://github.com/kanaka/mal)
 
-5.  [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+    -   [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
 
-6.  [A list of useful resources to learn Data Engineering from scratch](https://github.com/adilkhash/Data-Engineering-HowTo)
+    -   [ES6 (ECMAScript 2015)](https://github.com/kanaka/mal/tree/master/es6)
 
-7.  [Large-Scale Data Processing and Optimisation | 2018-2019 | Cambridge Computer Laboratory](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/index.html)
+    -   [JavaScript/Node](https://github.com/kanaka/mal/tree/master/js)
 
-8.  [A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+    -   [TypeScript](https://github.com/kanaka/mal/tree/master/ts)
 
-### Python<a id="sec-1-1-6"></a>
+-   [A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 
-1.  [Learn python3 in Y Minutes](https://learnxinyminutes.com/docs/python3/)
+-   [A curated list of awesome things related to Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
 
-2.  [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/docs/pythonstatcomp/)
+-   [Resources for nativescript vue](https://github.com/Gonzalo2310/awesome-nativescript-vue)
 
-3.  [Make a Lisp](https://github.com/kanaka/mal)
+-   [A curated list of awesome things related to Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 
-    1.  [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
+-   [Refactoring UI](https://refactoringui.com/)
 
-    2.  [Python](https://github.com/kanaka/mal/tree/master/python)
+-   [Curated list of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm)
 
-4.  [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+## AI
 
-### Frontend Tech<a id="sec-1-1-7"></a>
+### Newsletter
 
-1.  [Learn javascript in Y Minutes](https://learnxinyminutes.com/docs/javascript/)
+-   [data-science-weekly](https://www.datascienceweekly.org/newsletters)
 
-2.  [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
+-   [data-eng-weekly](https://dataengweekly.com/archive.html)
 
-3.  [Make a Lisp](https://github.com/kanaka/mal)
+-   [data-elixir](https://dataelixir.com/)
 
-    1.  [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
+-   [ai-weekly](http://aiweekly.co/issues)
 
-    2.  [ES6 (ECMAScript 2015)](https://github.com/kanaka/mal/tree/master/es6)
+-   [inside-ai](https://inside.com/lists/ai/recent_issues)
 
-    3.  [JavaScript/Node](https://github.com/kanaka/mal/tree/master/js)
+-   [ai-digest](https://aidigest.net/digests)
 
-    4.  [TypeScript](https://github.com/kanaka/mal/tree/master/ts)
+-   [machine-learning-engineer](https://ethical.institute/mle.html)
 
-4.  [A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
+-   [deep-learning-weekly](https://www.deeplearningweekly.com/)
 
-5.  [A curated list of awesome things related to Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
+### Math
 
-6.  [Resources for nativescript vue](https://github.com/Gonzalo2310/awesome-nativescript-vue)
+-   [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 
-7.  [A curated list of awesome things related to Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+-   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book no so;utions March 2019.pdf)
 
-8.  [Refactoring UI](https://refactoringui.com/)
+### Fundamental
 
-9.  [Curated list of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm)
+-   [Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
-## AI<a id="sec-1-2"></a>
+-   [scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 
-### Math<a id="sec-1-2-1"></a>
+-   TODO [Machine Learning @ VU | MLVU](https://mlvu.github.io/)
 
-1.  [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+    -   Introduction
 
-2.  [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book no so;utions March 2019.pdf)
+    -   Linear models 1
 
-### Fundamental<a id="sec-1-2-2"></a>
+    -   Methodology 1
 
-1.  [Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+    -   Methodology 2
 
-2.  [scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+    -   Probabilistic Models 1
 
-3.  [Machine Learning @ VU | MLVU](https://mlvu.github.io/)
+    -   Linear Models 2
 
-4.  [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
+    -   Deep Learning 1
 
-5.  [Part 2: Deep Learning from the Foundations | fast.ai course v3](https://course.fast.ai/part2)
+    -   Probabilistic Models 2
 
-6.  [Deep Learning For Coders—36 hours of lessons for free](http://course18.fast.ai/ml)
+    -   Deep Learning 2
 
-7.  [GitHub - fastai/numerical-linear-algebra: Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course](https://github.com/fastai/numerical-linear-algebra)
+    -   Tree Model and Ensembles
 
-8.  [GitHub - deep-learning-indaba/indaba-pracs-2019](https://github.com/deep-learning-indaba/indaba-pracs-2019)
+    -   Models and Sequential Data
 
-9.  [Applied Machine Learning | David Forsyth | Springer](https://www.springer.com/gp/book/9783030181130)
+    -   Matrix models
 
-10. [List of summer schools in machine learning + related fields across the globe](https://github.com/sshkhr/awesome-mlss)
+    -   Reinforcement Learning
 
-### Advanced<a id="sec-1-2-3"></a>
+    -   Review
 
-1.  [A curated list of applied machine learning and data science notebooks and libraries across different industries.](https://github.com/firmai/industry-machine-learning)
+-   [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
 
-2.  [Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota)
+-   [Part 2: Deep Learning from the Foundations | fast.ai course v3](https://course.fast.ai/part2)
 
-### NLP<a id="sec-1-2-4"></a>
+-   [Deep Learning For Coders—36 hours of lessons for free](http://course18.fast.ai/ml)
 
-1.  [new fast.ai course: A Code-First Introduction to Natural Language Processing · fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)
+-   [GitHub - fastai/numerical-linear-algebra: Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course](https://github.com/fastai/numerical-linear-algebra)
 
-2.  [Advanced NLP with spaCy](https://course.spacy.io/)
+-   [GitHub - deep-learning-indaba/indaba-pracs-2019](https://github.com/deep-learning-indaba/indaba-pracs-2019)
 
-3.  [Text Analytics with Python - A Practitioner&#x27;s Guide to Natural Language Processing | Dipanjan Sarkar | Springer](https://www.springer.com/gp/book/9781484243534)
+-   [Applied Machine Learning | David Forsyth | Springer](https://www.springer.com/gp/book/9783030181130)
 
-4.  [Deep Learning for NLP and Speech Recognition | Uday Kamath | Springer](https://www.springer.com/gp/book/9783030145958)
+-   [List of summer schools in machine learning + related fields across the globe](https://github.com/sshkhr/awesome-mlss)
 
-5.  [Developing Enterprise Chatbots - Learning Linguistic Structures | Boris Galitsky | Springer](https://www.springer.com/gp/book/9783030042981)
+### Advanced
 
-6.  [Transformers from scratch | Peter Bloem](http://www.peterbloem.nl/blog/transformers)
+-   [A curated list of applied machine learning and data science notebooks and libraries across different industries.](https://github.com/firmai/industry-machine-learning)
 
-7.  [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp)
+-   [Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota)
 
-### NLP Advanced<a id="sec-1-2-5"></a>
+### NLP
 
-1.  [A library of state-of-the-art pretrained models for Natural Language Processing (NLP)](https://github.com/huggingface/pytorch-transformers)
+-   [new fast.ai course: A Code-First Introduction to Natural Language Processing · fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
-2.  [Tracking Progress in Natural Language Processing | NLP-progress](https://nlpprogress.com/)
+-   [Advanced NLP with spaCy](https://course.spacy.io/)
 
-3.  Extractive Summarization
+-   [Text Analytics with Python - A Practitioner&#x27;s Guide to Natural Language Processing | Dipanjan Sarkar | Springer](https://www.springer.com/gp/book/9781484243534)
 
-    1.  [code for EMNLP 2019 paper Text Summarization with Pretrained Encoders](https://github.com/nlpyang/PreSumm)
+-   [Deep Learning for NLP and Speech Recognition | Uday Kamath | Springer](https://www.springer.com/gp/book/9783030145958)
 
-    2.  [a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)](https://github.com/Hellisotherpeople/CX_DB8)
+-   [Developing Enterprise Chatbots - Learning Linguistic Structures | Boris Galitsky | Springer](https://www.springer.com/gp/book/9783030042981)
 
-    3.  [Datasets I have created for scientific summarization.](https://github.com/Santosh-Gupta/ScientificSummarizationDataSets)
+-   [Transformers from scratch | Peter Bloem](http://www.peterbloem.nl/blog/transformers)
 
-4.  [How To Make Custom AI-Generated Text With GPT-2 | Max Woolf's Blog](https://minimaxir.com/2019/09/howto-gpt2/)
+-   [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp)
 
-### Cheatsheet<a id="sec-1-2-6"></a>
+### NLP Advanced
 
-1.  [Answers to 120 commonly asked data science interview questions.](https://github.com/kojino/120-Data-Science-Interview-Questions)
+-   [A library of state-of-the-art pretrained models for Natural Language Processing (NLP)](https://github.com/huggingface/pytorch-transformers)
 
-### Feed<a id="sec-1-2-7"></a>
+-   [Tracking Progress in Natural Language Processing | NLP-progress](https://nlpprogress.com/)
 
-1.  [FloydHub Blog](https://blog.floydhub.com/)
+-   Extractive Summarization
+
+    -   [code for EMNLP 2019 paper Text Summarization with Pretrained Encoders](https://github.com/nlpyang/PreSumm)
+
+    -   [a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)](https://github.com/Hellisotherpeople/CX_DB8)
+
+    -   [Datasets I have created for scientific summarization.](https://github.com/Santosh-Gupta/ScientificSummarizationDataSets)
+
+-   [How To Make Custom AI-Generated Text With GPT-2 | Max Woolf's Blog](https://minimaxir.com/2019/09/howto-gpt2/)
+
+### Cheatsheet
+
+-   [Answers to 120 commonly asked data science interview questions.](https://github.com/kojino/120-Data-Science-Interview-Questions)
+
+### Feed
+
+-   [FloydHub Blog](https://blog.floydhub.com/)

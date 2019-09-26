@@ -169,6 +169,8 @@
 
 -   [DeepLearningWeekly](https://www.deeplearningweekly.com/)
 
+-   [TheMorningPaper](https://blog.acolyer.org/)
+
 ### VideoTalks     :arrow_forward:
 
 -   [MLPapersExplained](https://www.youtube.com/user/amirfzpr/videos)

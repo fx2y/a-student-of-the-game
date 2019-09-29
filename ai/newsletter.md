@@ -142,7 +142,6 @@
 -   <https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7></p></details>
 
 ## <details><summary> 2019-W38 </summary><p>
-
 -   <https://www.youtube.com/watch?v=6BMwisTZFr4&feature=youtu.be>
 -   <https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/>
 -   <https://lexfridman.com/juergen-schmidhuber/>

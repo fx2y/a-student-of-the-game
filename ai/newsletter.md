@@ -3,9 +3,11 @@
 
 ## [The Machine Learning Engineer Newsletter](https://ethical.institute/mle.html)
 
+<details><summary>
+
 -   [Issue #39](https://ethical.institute/mle/39.html)
 
-    <details><p>
+    </summary><p>
 
     -   [Everything a Data Scientist Should Know About Data Management\*](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
 

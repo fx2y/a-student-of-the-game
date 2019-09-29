@@ -1,11 +1,11 @@
 
-
 # Newsletter
-
 
 ## [The Machine Learning Engineer Newsletter](https://ethical.institute/mle.html)
 
 -   [Issue #39](https://ethical.institute/mle/39.html)
+
+    <details><p>
 
     -   [Everything a Data Scientist Should Know About Data Management\*](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
 
@@ -24,3 +24,5 @@
     -   [GitHub - marcotcr/anchor: Code for "High-Precision Model-Agnostic Explanations" paper](https://github.com/marcotcr/anchor)
 
     -   [GitHub - boredbird/woe: Tools for WoE Transformation mostly used in ScoreCard Model for credit rating](https://github.com/boredbird/woe)
+
+        </p></details>

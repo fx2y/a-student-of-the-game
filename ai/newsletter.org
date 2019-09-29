@@ -132,4 +132,5 @@
 - https://blog.openbridge.com/how-to-automate-adobe-data-warehouse-exports-490115329a8
 - https://www.sicara.ai/blog/2019-03-21-steps-improving-data-quality-data-lake
 - https://www.periscopedata.com/blog/how-to-build-a-modern-data-stack
-- https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f</details>
+- https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f
+</details>

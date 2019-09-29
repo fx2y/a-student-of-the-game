@@ -70,7 +70,7 @@
 *** https://dataform.co/blog/three-tables-every-analyst-needs/
 *** https://aws.amazon.com/blogs/mobile/visualizing-big-data-with-aws-appsync-amazon-athena-and-aws-amplify/
 *** https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7</p></details>
-** <details><summary> 2019-W38 </summary><p>
+** <details><summary> 2019-W38 </summary>
 - https://www.youtube.com/watch?v=6BMwisTZFr4&feature=youtu.be
 - https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/
 - https://lexfridman.com/juergen-schmidhuber/
@@ -132,4 +132,4 @@
 - https://blog.openbridge.com/how-to-automate-adobe-data-warehouse-exports-490115329a8
 - https://www.sicara.ai/blog/2019-03-21-steps-improving-data-quality-data-lake
 - https://www.periscopedata.com/blog/how-to-build-a-modern-data-stack
-- https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f</p></details>
+- https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f</details>

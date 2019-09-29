@@ -1,61 +1,7 @@
 
 # Newsletter
 
-## [The Machine Learning Engineer Newsletter](https://ethical.institute/mle.html)
-
--   <details><summary> [Issue #39](https://ethical.institute/mle/39.html) </summary><p>
-
-    -   [Everything a Data Scientist Should Know About Data Management\*](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
-
-    -   [koaning.io: Outliers: Selection vs. Detection](http://koaning.io/posts/outliers-selection-vs-detection/)
-
-    -   [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)
-
-    -   [Practical AI #55: AutoML and AI at Google with Sherol Chen, ML developer at Google](https://changelog.com/practicalai/55)
-
-    -   [The 5 Sampling Algorithms every Data Scientist need to know](https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c)
-
-    -   [GitHub - tensorflow/lucid: A collection of infrastructure and tools for research in neural network interpretability.](https://github.com/tensorflow/lucid)
-
-    -   [rcnn/code/rationale at master · taolei87/rcnn · GitHub](https://github.com/taolei87/rcnn/tree/master/code/rationale)
-
-    -   [GitHub - marcotcr/anchor: Code for "High-Precision Model-Agnostic Explanations" paper](https://github.com/marcotcr/anchor)
-
-    -   [GitHub - boredbird/woe: Tools for WoE Transformation mostly used in ScoreCard Model for credit rating](https://github.com/boredbird/woe)</p></details>
-
-## 2019-W39
-
--   [This Picasso painting had never been seen before. Until a neural network painted it.](https://www.technologyreview.com/s/614333/this-picasso-painting-had-never-been-seen-before-until-a-neural-network-painted-it/)
-
--   (PDF) [Deep Learning for Symbolic Mathematics](https://openreview.net/pdf?id=S1eZYeHFDS)
-
--   [Why It’s So Hard for Amazon Alexa to Really Explain Itself](https://onezero.medium.com/why-its-so-hard-for-amazon-alexa-to-really-explain-itself-9d5ede67a68)
-
--   [You’re very easy to track down, even when your data has been anonymized](https://www.technologyreview.com/s/613996/youre-very-easy-to-track-down-even-when-your-data-has-been-anonymized/)
-
--   [Fiddler raises $10.2 million for AI that explains its reasoning](https://venturebeat.com/2019/09/24/fiddler-raises-10-2-million-for-ai-that-explains-its-reasoning/)
-
--   [Using deep neural networks for accurate hand-tracking on Oculus Quest](https://ai.facebook.com/blog/hand-tracking-deep-neural-networks/)
-
--   (PDF) [Distributed Machine Learning on Mobile Devices: A Survey](https://arxiv.org/abs/1909.08329v1)
-
--   [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/abs/1909.11646)
-
--   [Google has released a giant database of deepfakes to help fight deepfakes](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/)
-
--   [Bi-Tempered Logistic Loss for Training Neural Nets with Noisy Data](https://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html)
-
--   (PDF) [Conditional Transferring Features: Scaling GANs to Thousands of Classes with 30% Less High-quality Data for Training](https://arxiv.org/abs/1909.11308)
-
--   [5 Common Pitfalls To Avoid When Crafting Your Data Science Resume | DataScienceWeekly.org](https://www.datascienceweekly.org/articles/5-common-pitfalls-to-avoid-when-crafting-your-data-science-resume)
-
--   [Using AI-generated questions to train NLP systems](https://ai.facebook.com/blog/research-in-brief-unsupervised-question-answering-by-cloze-translation/)
-
--   [Automation via Reinforcement Learning](https://jacobbuckman.com/2019-09-23-automation-via-reinforcement-learning/)
-
--   [Weights & Biases - Sudo Write Me a Program: GitHub Releases the ImageNet for Code](https://www.wandb.com/articles/codesearchnet)
-
-## 2019-W39
+## <details><summary>2019-W39</summary><p>
 
 -   <https://www.technologyreview.com/s/614333/this-picasso-painting-had-never-been-seen-before-until-a-neural-network-painted-it/>
 
@@ -193,11 +139,9 @@
 
 -   <https://aws.amazon.com/blogs/mobile/visualizing-big-data-with-aws-appsync-amazon-athena-and-aws-amplify/>
 
--   <https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7>
+-   <https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7></p></details>
 
-## <details><summary> 2019-W38 </summary>
-
-<p>
+## <details><summary> 2019-W38 </summary><p>
 
 -   <https://www.youtube.com/watch?v=6BMwisTZFr4&feature=youtu.be>
 -   <https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/>
@@ -260,6 +204,4 @@
 -   <https://blog.openbridge.com/how-to-automate-adobe-data-warehouse-exports-490115329a8>
 -   <https://www.sicara.ai/blog/2019-03-21-steps-improving-data-quality-data-lake>
 -   <https://www.periscopedata.com/blog/how-to-build-a-modern-data-stack>
--   <https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f>
-
-</p></details>
+-   <https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f></p></details>

@@ -149,6 +149,72 @@
 
 -   [Curated list of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm)
 
+### Newsletter
+
+-   Elixir
+
+    -   [elixir digest](https://elixirdigest.net/digests)
+
+    -   [ElixirWeekly](https://elixirweekly.net/issues)
+
+    -   [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter/archive)
+
+-   Rust
+
+    -   [This Week in Rust](https://this-week-in-rust.org/)
+
+    -   [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter)
+
+-   Go
+
+    -   [Golang Weekly](https://golangweekly.com/)
+
+    -   [Awesome Go Newsletter](https://go.libhunt.com/newsletter)
+
+    -   [The Go Gazelle](https://www.getrevue.co/profile/golang)
+
+    -   [The Go Gazette](http://www.go-gazette.com/)
+
+-   DB
+
+    -   [DB Weekly](https://dbweekly.com/)
+
+    -   [Postgres Weekly](https://postgresweekly.com/)
+
+-   Frontend
+
+    -   [Mobile Dev We ekly](https://mobiledevweekly.com/)
+
+    -   [Flutter Weekly](https://flutterweekly.net/)
+
+    -   [WebRTC Weekly](https://webrtcweekly.com/)
+
+    -   [Front End Newsletter](http://frontendnewsletter.com/)
+
+    -   [Friday Frontend Archive](https://zendev.com/category/friday-frontend.html)
+
+    -   [UI Movement](https://uimovement.com/)
+
+    -   [Pony Foo Weekly](https://ponyfoo.com/weekly/history)
+
+    -   [The Dev Awesome](https://devawesome.io/archive)
+
+-   DevOps
+
+    -   [SRE Weekly](http://sreweekly.com/)
+
+    -   [Microservices Weekly](http://www.microservicesweekly.com/)
+
+    -   [High Scalability](http://highscalability.com)
+
+-   Leader
+
+    -   [Weekly Newsletter for Engineering Leaders](https://www.gitprime.com/engineering-impact/)
+
+    -   [software lead weekly](http://softwareleadweekly.com/)
+
+-   Founder
+
 ## AI
 
 ### Newsletter     :newspaper:
@@ -170,6 +236,10 @@
 -   [DeepLearningWeekly](https://www.deeplearningweekly.com/)
 
 -   [TheMorningPaper](https://blog.acolyer.org/)
+
+-   [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+
+-   [SF Data Weekly](http://weekly.sfdata.io/)
 
 ### VideoTalks     :arrow_forward:
 

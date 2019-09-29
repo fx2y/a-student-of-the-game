@@ -1,20 +1,20 @@
 
 # Newsletter
 
-## 2019
+## 2019-Q3
 
 <details><summary>W39</summary>
 
--   <https://www.technologyreview.com/s/614333/this-picasso-painting-had-never-been-seen-before-until-a-neural-network-painted-it/>
--   <https://openreview.net/pdf?id=S1eZYeHFDS>
--   <https://onezero.medium.com/why-its-so-hard-for-amazon-alexa-to-really-explain-itself-9d5ede67a68>
--   <https://www.technologyreview.com/s/613996/youre-very-easy-to-track-down-even-when-your-data-has-been-anonymized/>
--   <https://ai.facebook.com/blog/hand-tracking-deep-neural-networks/>
--   <https://arxiv.org/abs/1909.08329v1>
--   <https://arxiv.org/abs/1909.11646>
--   <https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/>
--   <https://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html>
--   <https://arxiv.org/abs/1909.11308>
+-   This Picasso painting had never been seen before. Until a neural network painted it. ([web](https://www.technologyreview.com/s/614333/this-picasso-painting-had-never-been-seen-before-until-a-neural-network-painted-it/))
+-   Deep Learning for Symbolic Mathematics ([pdf](https://openreview.net/pdf?id=S1eZYeHFDS))
+-   Why It’s So Hard for Amazon Alexa to Really Explain Itself ([web](https://onezero.medium.com/why-its-so-hard-for-amazon-alexa-to-really-explain-itself-9d5ede67a68))
+-   You’re very easy to track down, even when your data has been anonymized ([web](https://www.technologyreview.com/s/613996/youre-very-easy-to-track-down-even-when-your-data-has-been-anonymized/))
+-   Using deep neural networks for accurate hand-tracking on Oculus Quest ([web](https://ai.facebook.com/blog/hand-tracking-deep-neural-networks/))
+-   Distributed Machine Learning on Mobile Devices: A Survey ([pdf](https://arxiv.org/abs/1909.08329v1))
+-   High Fidelity Speech Synthesis with Adversarial Networks ([pdf](https://arxiv.org/abs/1909.11646))
+-   Google has released a giant database of deepfakes to help fight deepfakes ([web](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/))
+-   Bi-Tempered Logistic Loss for Training Neural Nets with Noisy Data ([web](https://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html))
+-   Conditional Transferring Features: Scaling GANs to Thousands of Classes with 30% Less High-quality Data for Training ([pdf](https://arxiv.org/abs/1909.11308))
 -   <https://www.datascienceweekly.org/articles/5-common-pitfalls-to-avoid-when-crafting-your-data-science-resume>
 -   <https://ai.facebook.com/blog/research-in-brief-unsupervised-question-answering-by-cloze-translation/>
 -   <https://jacobbuckman.com/2019-09-23-automation-via-reinforcement-learning/>

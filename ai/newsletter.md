@@ -5,7 +5,7 @@
 
 <details><summary>W39</summary>
 
--   This Picasso painting had never been seen before. Until a neural network painted it. ([web](https://www.technologyreview.com/s/614333/this-picasso-painting-had-never-been-seen-before-until-a-neural-network-painted-it/))
+-   This Picasso painting had never been seen before. Until a neural network painted it. ([article](https://www.technologyreview.com/s/614333/this-picasso-painting-had-never-been-seen-before-until-a-neural-network-painted-it/))
 -   Deep Learning for Symbolic Mathematics ([pdf](https://openreview.net/pdf?id=S1eZYeHFDS))
 -   Why It’s So Hard for Amazon Alexa to Really Explain Itself ([web](https://onezero.medium.com/why-its-so-hard-for-amazon-alexa-to-really-explain-itself-9d5ede67a68))
 -   You’re very easy to track down, even when your data has been anonymized ([web](https://www.technologyreview.com/s/613996/youre-very-easy-to-track-down-even-when-your-data-has-been-anonymized/))
@@ -15,31 +15,31 @@
 -   Google has released a giant database of deepfakes to help fight deepfakes ([web](https://www.technologyreview.com/f/614426/google-has-released-a-giant-database-of-deepfakes-to-help-fight-deepfakes/))
 -   Bi-Tempered Logistic Loss for Training Neural Nets with Noisy Data ([web](https://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html))
 -   Conditional Transferring Features: Scaling GANs to Thousands of Classes with 30% Less High-quality Data for Training ([pdf](https://arxiv.org/abs/1909.11308))
--   <https://www.datascienceweekly.org/articles/5-common-pitfalls-to-avoid-when-crafting-your-data-science-resume>
--   <https://ai.facebook.com/blog/research-in-brief-unsupervised-question-answering-by-cloze-translation/>
--   <https://jacobbuckman.com/2019-09-23-automation-via-reinforcement-learning/>
--   <https://www.wandb.com/articles/codesearchnet>
--   <https://www.jeremyjordan.me/ml-requirements/>
--   <https://amiles.netlify.com/2019/09/building-optimal-daily-fantasy-lineups-in-r/>
--   <https://blog.getdbt.com/4-questions-to-help-you-more-accurately-scope-analytics-engineering-projects/>
--   <https://medium.com/public-comps/data-tooling-market-2019-580e38b7475e>
--   <https://twitter.com/m_simonephd/status/1174010078632009728>
--   <https://supervised-ml-course.netlify.com/>
--   <https://wilkelab.org/practicalgg/>
--   <https://congress.pudding.cool/>
--   <https://eeecon.uibk.ac.at/~zeileis/news/dorian_rainbow/>
--   <http://inverseprobability.com/talks/notes/machine-learning-systems-design.html>
--   <https://ai.facebook.com/blog/building-ai-to-inform-peoples-fashion-choice>
--   <https://www.digitaltrends.com/cool-tech/gpt-adventure-text-based-game/>
--   <https://www.kaggle.com/depmountaineer/reinforcement-learning-tictactoe>
--   <https://arxiv.org/abs/1909.05483>
--   <https://adgefficiency.com/mistakes-data-scientist/>
--   <https://cloud.google.com/products/ai/ml-comic-1/>
--   <https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42>
--   <http://koaning.io/posts/outliers-selection-vs-detection/>
--   <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007>
--   <https://changelog.com/practicalai/55>
--   <https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c>
+-   5 Common Pitfalls To Avoid When Crafting Your Data Science Resume | DataScienceWeekly.org ([6-7min](https://www.datascienceweekly.org/articles/5-common-pitfalls-to-avoid-when-crafting-your-data-science-resume))
+-   Using AI-generated questions to train NLP systems ([3-4min](https://ai.facebook.com/blog/research-in-brief-unsupervised-question-answering-by-cloze-translation/))
+-   Automation via Reinforcement Learning ([13-17min](https://jacobbuckman.com/2019-09-23-automation-via-reinforcement-learning/))
+-   Weights & Biases - Sudo Write Me a Program: GitHub Releases the ImageNet for Code ([6-7min](https://www.wandb.com/articles/codesearchnet))
+-   Building machine learning products: a problem well-defined is a problem half-solved. ([14-18min](https://www.jeremyjordan.me/ml-requirements/))
+-   Building Optimal Daily Fantasy Lineups in R ([12-15min](https://amiles.netlify.com/2019/09/building-optimal-daily-fantasy-lineups-in-r/))
+-   4 questions to help accurately scope analytics engineering projects ([14-17min](https://blog.getdbt.com/4-questions-to-help-you-more-accurately-scope-analytics-engineering-projects/))
+-   Data Tooling Market — 2019 ([14-17min](https://medium.com/public-comps/data-tooling-market-2019-580e38b7475e))
+-   [Melissa Simone, PhD (She/Her) on Twitter: "My online #researchstudy was recently infiltrated by bots. I haven't shared this story publicly because I felt a bit like it was my fault. I'm putting my pride aside because I think #dataintegrity is and will be a growing issue in survey data and is not discussed enough (1/n)"](https://twitter.com/m_simonephd/status/1174010078632009728)
+-   [Supervised machine learning case studies in R! · A free interactive course](https://supervised-ml-course.netlify.com/)
+-   Practical ggplot2 ([2-3min](https://wilkelab.org/practicalgg/))
+-   [The Language of Congress](https://congress.pudding.cool/)
+-   Was Trump confused by rainbow color map? ([6-8min](https://eeecon.uibk.ac.at/~zeileis/news/dorian_rainbow/))
+-   Machine Learning Systems Design ([25-32min](http://inverseprobability.com/talks/notes/machine-learning-systems-design.html))
+-   Building AI to inform people's fashion choices ([3-4min](https://ai.facebook.com/blog/building-ai-to-inform-peoples-fashion-choice))
+-   A.I.-Generated Adventure Game Rewrites Itself Every Time You Play | Digital Trends ([7-9min](https://www.digitaltrends.com/cool-tech/gpt-adventure-text-based-game/))
+-   Reinforcement Learning: Tic Tac Toe ([kaggle.com](https://www.kaggle.com/depmountaineer/reinforcement-learning-tictactoe))
+-   3D Ken Burns Effect from a Single Image ([arxiv.org](https://arxiv.org/abs/1909.05483))
+-   Mistakes data scientists make ([14-18min](https://adgefficiency.com/mistakes-data-scientist/))
+-   Learning Machine Learning | Cloud AI | Google Cloud ([35-45min](https://cloud.google.com/products/ai/ml-comic-1/))
+-   Everything a Data Scientist Should Know About Data Management\* ([27-34min](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42))
+-   koaning.io: Outliers: Selection vs. Detection ([6-7min](http://koaning.io/posts/outliers-selection-vs-detection/))
+-   Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks ([26-33min](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007))
+-   Practical AI #55: AutoML and AI at Google with Sherol Chen, ML developer at Google ([49-62min](https://changelog.com/practicalai/55))
+-   The 5 Sampling Algorithms every Data Scientist need to know ([6-8min](https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c))
 -   <https://github.com/tensorflow/lucid>
 -   <https://github.com/taolei87/rcnn/tree/master/code/rationale>
 -   <https://github.com/marcotcr/anchor>

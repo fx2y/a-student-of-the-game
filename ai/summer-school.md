@@ -3,6 +3,54 @@
 
 ## 2019
 
+-   Gaussian Process and Uncertainty Quantification ([September 9-12, 2019, Sheffield, UK](http://gpss.cc/gpss19/))
+
+    <details><summary>Summer School</summary>
+
+    -   Introduction to GPs
+
+    -   Kernel design
+
+    -   Computationally efficient GPs
+
+    -   Gaussian Processes and Non-Gaussian Likelihoods
+
+    -   Introduction to Deep GPs
+
+    -   Bayesian neural networks: a function space view tour
+
+    -   Unsupervised learning and Deep GPs
+
+    -   Introduction to Bayesian Optimisation
+
+    -   State space methods for temporal GPs
+
+        </details> <details><summary>Workshop</summary>
+
+    -   Constraining Gaussian processes by variational Fourier features
+
+    -   Uncertainty in compositional models with application to temporal alignment
+
+    -   Active Multi-Information Source Bayesian Quadrature
+
+    -   Invariance in Gaussian processes and how to learn them
+
+    -   Learning unknown forces in nonlinear models with Gaussian processes and autoregressive flows
+
+        </details> <details><summary>Labs</summary>
+
+    -   Gaussian Process Regression
+
+    -   Uncertainty Propagation
+
+    -   GPs for Non-Gaussian Likelihoods and Big Data
+
+    -   Deep Gaussian Processes
+
+    -   Global Optimisation with Gaussian Processes
+
+        </details>
+
 -   Summer school on Deep Learning and Bayesian Methods ([August 20-25, 2019, Moscow, Russia](http://deepbayes.ru/))
 
     <details>

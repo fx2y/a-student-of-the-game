@@ -25,7 +25,9 @@
 
     -   State space methods for temporal GPs
 
-        </details> <details><summary>Workshop</summary>
+        </details>
+
+        <details><summary>Workshop</summary>
 
     -   Constraining Gaussian processes by variational Fourier features
 
@@ -37,7 +39,9 @@
 
     -   Learning unknown forces in nonlinear models with Gaussian processes and autoregressive flows
 
-        </details> <details><summary>Labs</summary>
+        </details>
+
+        <details><summary>Labs</summary>
 
     -   Gaussian Process Regression
 

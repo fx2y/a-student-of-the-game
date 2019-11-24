@@ -23,8 +23,8 @@
 **** [[https://github.com/checkcheckzz/system-design-interview][System design interview for IT companies]]
 **** [[https://www.aosabook.org/en/index.html][The Architecture of Open Source Applications]]
 *** elixir-otp
-**** TODO [[https://learnxinyminutes.com/][learn-x-in-y-minutes]] ([[https://learnxinyminutes.com/docs/erlang/][erlang]] [[https://learnxinyminutes.com/docs/elixir/][elixir]]) :page_facing_up:
-**** TODO [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp-process]] ([[https://github.com/kanaka/mal/tree/master/erlang][erlang]] [[https://github.com/kanaka/mal/tree/master/elixir][elixir]]) :page_facing_up:
+**** [[https://learnxinyminutes.com/][learn-x-in-y-minutes]] ([[https://learnxinyminutes.com/docs/erlang/][erlang]] [[https://learnxinyminutes.com/docs/elixir/][elixir]]) :page_facing_up:
+**** [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp-process]] ([[https://github.com/kanaka/mal/tree/master/erlang][erlang]] [[https://github.com/kanaka/mal/tree/master/elixir][elixir]]) :page_facing_up:
 **** newsletter ([[https://elixirdigest.net/digests][elixir-digest]] [[https://elixirweekly.net/issues][elixir-weekly]] [[https://elixir.libhunt.com/newsletter/archive][awesome-elixir]]) :newspaper:
 **** elixir-cqrs
 ***** [[https://leanpub.com/buildingconduit/read][building-conduit]] :book:
@@ -36,8 +36,8 @@
 ***** [[https://alchemist.camp/episodes][alchemist-camp]]
 ***** [[https://elixirforum.com/tags/liveview][liveview-forum]]
 *** go-rust
-**** TODO [[https://learnxinyminutes.com/][learn-x-in-y-minutes]] ([[https://learnxinyminutes.com/docs/go/][go]] [[https://learnxinyminutes.com/docs/rust/][rust]])
-**** TODO [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp-process]] ([[https://github.com/kanaka/mal/tree/master/go][go]] [[https://github.com/kanaka/mal/tree/master/rust][rust]])
+**** [[https://learnxinyminutes.com/][learn-x-in-y-minutes]] ([[https://learnxinyminutes.com/docs/go/][go]] [[https://learnxinyminutes.com/docs/rust/][rust]])
+**** [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp-process]] ([[https://github.com/kanaka/mal/tree/master/go][go]] [[https://github.com/kanaka/mal/tree/master/rust][rust]])
 **** cheatsheet
 **** newsletter
 **** [[https://quii.gitbook.io/learn-go-with-tests/][learn-go-with-tests]]
@@ -156,7 +156,7 @@
 *** Fundamental
 **** [[https://www.oreilly.com/library/view/data-science-from/9781492041122/][Data Science from Scratch, 2nd Edition]]
 **** [[https://scikit-learn.org/stable/user_guide.html][scikit-learn User Guide]]
-**** TODO [[https://mlvu.github.io/][Machine Learning @ VU | MLVU]]
+**** [[https://mlvu.github.io/][Machine Learning @ VU | MLVU]]
 ***** Introduction
 ***** Linear models 1
 ***** Methodology 1

@@ -1,0 +1,32 @@
+* a Student of the Game
+** Startup, Product and Team
+*** Startup
+**** [[https://first100.yobenlee.com/][The First 100]]
+**** [[https://www.startupschool.org/library][Library | Startup School]]
+**** [[http://growth.eladgil.com/][High Growth Handbook – By Elad Gil]]
+**** [[https://a16z.com/posts/][All Posts – Andreessen Horowitz]]
+*** Product
+**** [[https://oecd-opsi.org/toolkit-navigator/][Toolkit Navigator - Observatory of Public Sector Innovation Observatory of Public Sector Innovation]]
+**** [[https://www.domainstorytelling.org/][Domain Storytelling]]
+**** [[https://www.impactmapping.org/][Make a big impact with software products and projects!]]
+**** [[https://www.featmap.com/][Featmap - the perfect user story mapping tool]]
+**** EdTech
+***** [[https://github.com/hkalant/awesome-edtech-tools][An ongoing curated list with awesome tools and resources for instructional designers.]]
+***** [[https://blogs.worldbank.org/edutech/20-innovative-edtech-projects-around-world][20 innovative edtech projects from around the world]]
+***** [[https://standards.aasl.org/project/bw19/][Best Websites for Teaching & Learning 2019]]
+***** Examples
+****** [[https://www.primerlabs.io/][PrimerLabs | Primer Labs]]
+****** [[https://mathigon.org/][Mathigon]]
+****** [[https://www.teachersguild.org/][The Teachers Guild]]
+****** [[https://designthinkingforeducators.com/][Design Thinking for Educators]]
+*** Team
+**** [[http://danielcoyle.com/the-culture-code/][The Culture Code]]
+**** [[https://about.gitlab.com/company/culture/all-remote/][All Remote | GitLab]]
+**** [[https://distributed.blog/][Distributed.blog – The future of work is here.]]
+**** [[https://twist.com/remote-work-guides/][Remote Work Guides | Twist]]
+**** [[https://basecamp.com/books/remote][REMOTE: Office Not Required]]
+**** [[https://zapier.com/learn/remote-work/][The Ultimate Guide to Remote Work | Zapier]]
+**** [[http://www.calnewport.com/books/deep-work/][Deep Work: Rules for Focused Success in a Distracted World - Cal Newport]]
+**** [[https://github.com/mezod/awesome-indie][Resources for independent developers to make money]]
+**** [[http://katemats.com/][kate{mats} | my thoughts on technology, management and life in general]]
+**** [[https://findwork.dev/][findwork.dev]]

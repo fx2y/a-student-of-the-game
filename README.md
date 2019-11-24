@@ -400,3 +400,89 @@
 ### Feed
 
 -   [FloydHub Blog](https://blog.floydhub.com/)
+
+## Personal Mastery
+
+### Dev
+
+-   Elixir
+
+    -   [ElixirWeekly - All Issues](https://elixirweekly.net/issues)
+
+    -   [Archives | Weekly Elixir Newsletter](https://elixirdigest.net/digests)
+
+    -   [Awesome Elixir Newsletter - Archive | LibHunt](https://elixir.libhunt.com/newsletter/archive)
+
+-   Go
+
+    -   [The Go Gazelle | Revue](https://www.getrevue.co/profile/golang#archive)
+
+    -   [The Go Gazette | Revue](http://www.go-gazette.com/)
+
+    -   [Golang Weekly Archives](https://golangweekly.com/issues)
+
+    -   [Awesome Go Newsletter - Archive | LibHunt](https://go.libhunt.com/newsletter/archive)
+
+-   Rust
+
+    -   <https://this-week-in-rust.org/blog/archives/index.html>
+
+    -   [Awesome Rust Newsletter - Archive | LibHunt](https://rust.libhunt.com/newsletter/archive)
+
+### Mobile + Web + Embedded AI
+
+-   [Newsletter – Heartbeat](https://heartbeat.fritz.ai/heartbeat-fritz-ai-newsletter/home)
+
+### Ant Design
+
+-   [GitHub - websemantics/awesome-ant-design: A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date](https://github.com/websemantics/awesome-ant-design)
+
+### Data Eng + DevOps
+
+-   [Data Eng Weekly](https://dataengweekly.com/archive.html)
+
+-   [Episodes | Data Engineering Podcast](https://www.dataengineeringpodcast.com/episodes/)
+
+-   <https://dataelixir.com/issue/> + issueNumber
+
+-   [SF Data Weekly | Revue](http://weekly.sfdata.io/#archive)
+
+-   [Postgres Weekly Archives](https://postgresweekly.com/issues)
+
+-   [DB Weekly Archives](https://dbweekly.com/issues)
+
+-   [Up & Running Weekly | Revue](https://www.getrevue.co/profile/cloud-architecture#archive)
+
+### AI
+
+-   [Tutorials, Overviews](https://www.kdnuggets.com/tutorials/index.html)
+
+-   [Previous Digests - Data Science Central](https://www.datasciencecentral.com/page/previous-digests)
+
+-   [Search results for "" | TOPBOTS](https://www.topbots.com/?s=)
+
+-   [NLP News | Revue](http://newsletter.ruder.io/#archive)
+
+-   [Import AI](https://jack-clark.net/)
+
+-   <https://ethical.institute/mle.html>
+
+-   [the morning paper – a random walk through Computer Science research, by Adrian Colyer](https://blog.acolyer.org/)
+
+-   [Data Science Weekly Newsletter Archive | Data Science Weekly](https://www.datascienceweekly.org/newsletters)
+
+-   [Archives | Weekly Artificial Intelligence Newsletter](https://aidigest.net/digests)
+
+-   [Data Machina](https://datamachina.substack.com/archive)
+
+-   [Machine Learnings Newsletter](https://us10.campaign-archive.com/home/?u=6ee1802497b4ea1c66ce61da4&id=afa70be09a)
+
+-   [The Data Science Roundup | Revue](http://roundup.fishtownanalytics.com/#archive)
+
+-   [Tds Letter – Towards Data Science](https://towardsdatascience.com/tagged/tds-letter)
+
+-   [Open Data Science - Your Data Science and AI News Source](https://opendatascience.com/)
+
+-   [Data Is Plural](https://tinyletter.com/data-is-plural/archive)
+
+-   [Deep Learning Weekly | Deep Learning news from industry & academia](https://www.deeplearningweekly.com/issues/)

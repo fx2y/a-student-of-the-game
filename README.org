@@ -1,0 +1,245 @@
+#+OPTIONS: H:3 num:nil toc:nil todo:t tags:t
+* a Student of the Game
+** Software
+*** General
+**** [[https://www.geeksforgeeks.org/][GeeksforGeeks | A computer science portal for geeks]]
+***** [[https://www.geeksforgeeks.org/lmns-gq/][Short notes for GATE CSE]]
+***** [[https://www.geeksforgeeks.org/gate-cs-notes-gq/][GATE CS Topic wise preparation Notes]]
+***** [[https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-ii/][UGC NET CS Notes according to syllabus of Paper-II]]
+***** [[https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/][UGC NET CS Notes according to syllabus of Paper-III (Core group)]]
+**** [[https://www.cl.cam.ac.uk/teaching/1819/][Department of Computer Science and Technology – Course pages 2018–19: Courses 2018–19]]
+**** [[https://github.com/OpenGenus/cosmos][Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter]]
+**** [[https://yangshun.github.io/tech-interview-handbook/][Tech Interview Handbook]]
+**** [[https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/][97 Things Every Programmer Should Know]]
+**** [[https://github.com/MaximAbramchuck/awesome-interview-questions][A curated awesome list of lists of interview questions.]]
+**** [[https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt][100+ Python challenging programming exercises]]
+*** System Design
+**** [[https://github.com/donnemartin/system-design-primer][The System Design Primer: Learn how to design large-scale systems. Prep for the system design interview.]]
+**** [[https://github.com/kamranahmedse/design-patterns-for-humans][Design Patterns for Humans: An ultra-simplified explanation to design patterns]]
+**** [[https://microservices.io/patterns/index.html][A pattern language for microservices | Microservice Architecture]]
+**** [[https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/][From design patterns to category theory]]
+**** [[https://pragprog.com/book/swdddf/domain-modeling-made-functional][Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# by Scott Wlaschin | The Pragmatic Bookshelf]]
+**** [[https://github.com/DovAmir/awesome-design-patterns][A curated list of software and architecture related design patterns.]]
+**** [[https://github.com/checkcheckzz/system-design-interview][System design interview for IT companies]]
+**** [[https://www.aosabook.org/en/index.html][The Architecture of Open Source Applications]]
+*** elixir-otp
+**** TODO [[https://learnxinyminutes.com/][learn-x-in-y-minutes]] ([[https://learnxinyminutes.com/docs/erlang/][erlang]] [[https://learnxinyminutes.com/docs/elixir/][elixir]]) :page_facing_up:
+**** TODO [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp-process]] ([[https://github.com/kanaka/mal/tree/master/erlang][erlang]] [[https://github.com/kanaka/mal/tree/master/elixir][elixir]]) :page_facing_up:
+**** newsletter ([[https://elixirdigest.net/digests][elixir-digest]] [[https://elixirweekly.net/issues][elixir-weekly]] [[https://elixir.libhunt.com/newsletter/archive][awesome-elixir]]) :newspaper:
+**** elixir-cqrs
+***** [[https://leanpub.com/buildingconduit/read][building-conduit]] :book:
+**** elixir-rtc ([[https://github.com/membraneframework][membrane-framework]] [[https://github.com/xirsys][xirsys]]) :book:
+**** backlog
+***** [[http://erlang.org/download/armstrong_thesis_2003.pdf][armstrong-thesis]]
+***** [[https://learnyousomeerlang.com/content][learn-you-some-erlang]]
+***** [[https://elixirschool.com/en/][elixir-school]] ([[https://elixirschool.com/blog/][blog]])
+***** [[https://alchemist.camp/episodes][alchemist-camp]]
+***** [[https://elixirforum.com/tags/liveview][liveview-forum]]
+*** go-rust
+**** TODO [[https://learnxinyminutes.com/][learn-x-in-y-minutes]] ([[https://learnxinyminutes.com/docs/go/][go]] [[https://learnxinyminutes.com/docs/rust/][rust]])
+**** TODO [[https://github.com/kanaka/mal/blob/master/process/guide.md][make-a-lisp-process]] ([[https://github.com/kanaka/mal/tree/master/go][go]] [[https://github.com/kanaka/mal/tree/master/rust][rust]])
+**** cheatsheet
+**** newsletter
+**** [[https://quii.gitbook.io/learn-go-with-tests/][learn-go-with-tests]]
+**** [[https://pdos.csail.mit.edu/6.824/schedule.html][mit-distributed-systems-courses]]
+**** [[https://github.com/ardanlabs/gotraining][go-training]] ([[https://github.com/ardanlabs/gotraining/blob/master/topics/courses/go/README.md][ultimate-go]] [[https://github.com/ardanlabs/service-training][writing-web-services-in-go]] [[https://github.com/ardanlabs/service][repo]] [[https://github.com/ardanlabs/training-ai][ml-ai-data-science]] [[https://github.com/ardanlabs/gotraining/blob/master/reading/README.md][important-reading]])
+**** [[https://github.com/pingcap/talent-plan][pingcap-training-courses]] ([[https://github.com/pingcap/talent-plan/tree/master/tidb][distributed-systems-in-go]] [[https://github.com/pingcap/talent-plan/tree/master/dss][distributed-systems-in-rust]] [[https://tikv.org/docs/deep-dive/introduction/][tikv-deep-dive]] [[https://github.com/pingcap/talent-plan/tree/master/rust][practical-networked-applications-in-rust]])
+*** Data
+**** [[https://theartofpostgresql.com/][The Art of PostgreSQL: a modern PostgreSQL book in 2019]]
+**** [[https://15445.courses.cs.cmu.edu/fall2019/][CMU 15-445/645 :: Intro to Database Systems (Fall 2019)]]
+**** [[https://15721.courses.cs.cmu.edu/spring2019/][CMU 15-721 :: Advanced Database Systems (Spring 2019)]]
+**** [[https://dataintensive.net/][Designing Data-Intensive Applications (DDIA) — an O’Reilly book by Martin Kleppmann (The Wild Boar Book)]]
+**** [[https://github.com/andkret/Cookbook][The Data Engineering Cookbook]]
+**** [[https://github.com/adilkhash/Data-Engineering-HowTo][A list of useful resources to learn Data Engineering from scratch]]
+**** [[https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/index.html][Large-Scale Data Processing and Optimisation | 2018-2019 | Cambridge Computer Laboratory]]
+**** [[https://github.com/EthicalML/awesome-production-machine-learning][A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning]]
+*** Python
+**** [[https://learnxinyminutes.com/docs/python3/][Learn python3 in Y Minutes]]
+**** [[https://learnxinyminutes.com/docs/pythonstatcomp/][Learn X in Y Minutes: Scenic Programming Language Tours]]
+**** [[https://github.com/kanaka/mal][Make a Lisp]]
+***** [[https://github.com/kanaka/mal/blob/master/process/guide.md][The Make-A-Lisp Process]]
+***** [[https://github.com/kanaka/mal/tree/master/python][Python]]
+**** [[https://gto76.github.io/python-cheatsheet/][Comprehensive Python Cheatsheet]]
+*** Frontend Tech
+**** [[https://learnxinyminutes.com/docs/javascript/][Learn javascript in Y Minutes]]
+**** [[https://learnxinyminutes.com/docs/typescript/][Learn TypeScript in Y Minutes]]
+**** [[https://github.com/kanaka/mal][Make a Lisp]]
+***** [[https://github.com/kanaka/mal/blob/master/process/guide.md][The Make-A-Lisp Process]]
+***** [[https://github.com/kanaka/mal/tree/master/es6][ES6 (ECMAScript 2015)]]
+***** [[https://github.com/kanaka/mal/tree/master/js][JavaScript/Node]]
+***** [[https://github.com/kanaka/mal/tree/master/ts][TypeScript]]
+**** [[https://github.com/vuejs/awesome-vue][A curated list of awesome things related to Vue.js]]
+**** [[https://github.com/nuxt-community/awesome-nuxt][A curated list of awesome things related to Nuxt.js]]
+**** [[https://github.com/Gonzalo2310/awesome-nativescript-vue][Resources for nativescript vue]]
+**** [[https://github.com/aniftyco/awesome-tailwindcss][A curated list of awesome things related to Tailwind CSS]]
+**** [[https://refactoringui.com/][Refactoring UI]]
+**** [[https://github.com/mbasso/awesome-wasm][Curated list of awesome things regarding WebAssembly (wasm) ecosystem]]
+*** Newsletter
+**** Elixir
+***** [[https://elixirdigest.net/digests][elixir digest]]
+***** [[https://elixirweekly.net/issues][ElixirWeekly]]
+***** [[https://elixir.libhunt.com/newsletter/archive][Awesome Elixir Newsletter]]
+**** Rust
+***** [[https://this-week-in-rust.org/][This Week in Rust]]
+***** [[https://rust.libhunt.com/newsletter][Awesome Rust Newsletter]]
+**** Go
+***** [[https://golangweekly.com/][Golang Weekly]]
+***** [[https://go.libhunt.com/newsletter][Awesome Go Newsletter]]
+***** [[https://www.getrevue.co/profile/golang][The Go Gazelle]]
+***** [[http://www.go-gazette.com/][The Go Gazette]]
+**** DB
+***** [[https://dbweekly.com/][DB Weekly]]
+***** [[https://postgresweekly.com/][Postgres Weekly]]
+**** Frontend
+***** [[https://mobiledevweekly.com/][Mobile Dev We ekly]]
+***** [[https://flutterweekly.net/][Flutter Weekly]]
+***** [[https://webrtcweekly.com/][WebRTC Weekly]]
+***** [[http://frontendnewsletter.com/][Front End Newsletter]]
+***** [[https://zendev.com/category/friday-frontend.html][Friday Frontend Archive]]
+***** [[https://uimovement.com/][UI Movement]]
+***** [[https://ponyfoo.com/weekly/history][Pony Foo Weekly]]
+***** [[https://devawesome.io/archive][The Dev Awesome]]
+**** DevOps
+***** [[http://sreweekly.com/][SRE Weekly]]
+***** [[http://www.microservicesweekly.com/][Microservices Weekly]]
+***** [[http://highscalability.com][High Scalability]]
+**** Leader
+***** [[https://www.gitprime.com/engineering-impact/][Weekly Newsletter for Engineering Leaders]]
+***** [[http://softwareleadweekly.com/][software lead weekly]]
+**** Founder
+** AI
+*** Newsletter :newspaper:
+**** [[https://www.datascienceweekly.org/newsletters][DataScienceWeekly]]
+**** [[https://dataengweekly.com/archive.html][DataEngWeekly]]
+**** [[https://dataelixir.com/][DataElixir]]
+**** [[http://aiweekly.co/issues][AIWeekly]]
+**** [[https://inside.com/lists/ai/recent_issues][InsideAI]]
+**** [[https://aidigest.net/digests][AIDigest]]
+**** [[https://ethical.institute/mle.html][MachineLearningEngineer]]
+**** [[https://www.deeplearningweekly.com/][DeepLearningWeekly]]
+**** [[https://blog.acolyer.org/][TheMorningPaper]]
+**** [[https://www.dataengineeringpodcast.com/][Data Engineering Podcast]]
+**** [[http://weekly.sfdata.io/][SF Data Weekly]]
+*** VideoTalks :arrow_forward:
+**** [[https://www.youtube.com/user/amirfzpr/videos][MLPapersExplained]]
+**** [[https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos][HenryAILabs]]
+**** [[https://www.youtube.com/user/kaggledotcom/videos][Kaggle]]
+**** [[https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/videos][YannicKilcher]]
+**** [[https://www.youtube.com/user/keeroyz/videos][TwoMinutePapers]]
+**** [[https://www.youtube.com/user/PapersWeLove/videos][PapersWeLove]]
+**** [[https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/videos][ArxivInsights]]
+**** [[https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos][3Blue1Brown]]
+**** [[https://nips.cc/Conferences/2018/Schedule][NeurIPS-2018]]
+*** Summer School
+**** [[http://mlss2018.net.ar/schedule.php][Machine Learning Summer School | Buenos Aires]]
+**** [[https://github.com/tmlss2018/PracticalSessions][GitHub - tmlss2018/PracticalSessions]]
+**** [[http://acai2018.unife.it/program/][Program – ACAI 2018]]
+**** [[http://www.datascienceafrica.org][Data Science Africa]]
+**** [[https://mlssafrica.com/programme-schedule/][MLSS-2019-Africa]]
+**** [[https://deepimaging2019.sciencesconf.org/resource/page/id/1][Deep Learning for Medical Imaging School]]
+**** [[https://www.ds3-datascience-polytechnique.fr/program/][Data Science Summer School (DS3)]]
+**** [[https://nassma.um6p.ma/lectures/][North African Machine Learning Summer School]]
+**** [[http://www.dia.fi.upm.es/ASDM][Advanced Statistics and Data Mining Summer School 2019]]
+**** [[https://www.eeml.eu/resources][Eastern European Machine Learning Summer School]]
+**** [[http://2019.dl-lab.eu/schedule/][International Summer School on Deep Learning]]
+**** [[https://rlss.inria.fr/program/][Reinforcement Learning Summer School]]
+**** [[http://lxmls.it.pt/2019/?page_id=40][Lisbon Machine Learning School]]
+**** [[https://sites.google.com/view/mlss-2019/schedule][MLSS-2019-London]]
+**** [[https://ngschool.eu/index.php/2018/workshops][#NGSchool2018 Materials | #NGSchool]]
+**** [[http://www.deeplearningindaba.com/][Indaba 2019]]
+**** [[http://deepbayes.ru/][Deep|Bayes – Summer school on Deep Learning and Bayesian Methods]]
+**** [[https://dlinnlp.github.io/index.html][DLinNLP 2019]]
+**** [[http://gpss.cc/gpss19/][Gaussian Process and Uncertainty Quantification Summer School 2019]]
+*** Math
+**** [[https://mml-book.github.io/book/mml-book.pdf][MathematicsForMachineLearning]]
+**** [[https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf][FoundationsOfDataScience]]
+*** Fundamental
+**** [[https://www.oreilly.com/library/view/data-science-from/9781492041122/][Data Science from Scratch, 2nd Edition]]
+**** [[https://scikit-learn.org/stable/user_guide.html][scikit-learn User Guide]]
+**** TODO [[https://mlvu.github.io/][Machine Learning @ VU | MLVU]]
+***** Introduction
+***** Linear models 1
+***** Methodology 1
+***** Methodology 2
+***** Probabilistic Models 1
+***** Linear Models 2
+***** Deep Learning 1
+***** Probabilistic Models 2
+***** Deep Learning 2
+***** Tree Model and Ensembles
+***** Models and Sequential Data
+***** Matrix models
+***** Reinforcement Learning
+***** Review
+**** [[https://course.fast.ai/][Practical Deep Learning for Coders, v3 | fast.ai course v3]]
+**** [[https://course.fast.ai/part2][Part 2: Deep Learning from the Foundations | fast.ai course v3]]
+**** [[http://course18.fast.ai/ml][Deep Learning For Coders—36 hours of lessons for free]]
+**** [[https://github.com/fastai/numerical-linear-algebra][GitHub - fastai/numerical-linear-algebra: Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course]]
+**** [[https://www.springer.com/gp/book/9783030181130][Applied Machine Learning | David Forsyth | Springer]]
+**** [[https://github.com/sshkhr/awesome-mlss][List of summer schools in machine learning + related fields across the globe]]
+*** Advanced
+**** [[https://github.com/firmai/industry-machine-learning][A curated list of applied machine learning and data science notebooks and libraries across different industries.]]
+**** [[https://paperswithcode.com/sota][Browse the State-of-the-Art in Machine Learning]]
+*** NLP
+**** [[https://www.fast.ai/2019/07/08/fastai-nlp/][new fast.ai course: A Code-First Introduction to Natural Language Processing · fast.ai]]
+**** [[https://course.spacy.io/][Advanced NLP with spaCy]]
+**** [[https://www.springer.com/gp/book/9781484243534][Text Analytics with Python - A Practitioner&#x27;s Guide to Natural Language Processing | Dipanjan Sarkar | Springer]]
+**** [[https://www.springer.com/gp/book/9783030145958][Deep Learning for NLP and Speech Recognition | Uday Kamath | Springer]]
+**** [[https://www.springer.com/gp/book/9783030042981][Developing Enterprise Chatbots - Learning Linguistic Structures | Boris Galitsky | Springer]]
+**** [[http://www.peterbloem.nl/blog/transformers][Transformers from scratch | Peter Bloem]]
+**** [[https://github.com/microsoft/nlp][Natural Language Processing Best Practices & Examples]]
+*** NLP Advanced
+**** [[https://github.com/huggingface/pytorch-transformers][A library of state-of-the-art pretrained models for Natural Language Processing (NLP)]]
+**** [[https://nlpprogress.com/][Tracking Progress in Natural Language Processing | NLP-progress]]
+**** Extractive Summarization
+***** [[https://github.com/nlpyang/PreSumm][code for EMNLP 2019 paper Text Summarization with Pretrained Encoders]]
+***** [[https://github.com/Hellisotherpeople/CX_DB8][a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)]]
+***** [[https://github.com/Santosh-Gupta/ScientificSummarizationDataSets][Datasets I have created for scientific summarization.]]
+**** [[https://minimaxir.com/2019/09/howto-gpt2/][How To Make Custom AI-Generated Text With GPT-2 | Max Woolf's Blog]]
+*** Cheatsheet
+**** [[https://github.com/kojino/120-Data-Science-Interview-Questions][Answers to 120 commonly asked data science interview questions.]]
+*** Feed
+**** [[https://blog.floydhub.com/][FloydHub Blog]]
+** Personal Mastery
+*** Dev
+**** Elixir
+***** [[https://elixirweekly.net/issues][ElixirWeekly - All Issues]]
+***** [[https://elixirdigest.net/digests][Archives | Weekly Elixir Newsletter]]
+***** [[https://elixir.libhunt.com/newsletter/archive][Awesome Elixir Newsletter - Archive | LibHunt]]
+**** Go
+***** [[https://www.getrevue.co/profile/golang#archive][The Go Gazelle | Revue]]
+***** [[http://www.go-gazette.com/][The Go Gazette | Revue]]
+***** [[https://golangweekly.com/issues][Golang Weekly Archives]]
+***** [[https://go.libhunt.com/newsletter/archive][Awesome Go Newsletter - Archive | LibHunt]]
+**** Rust
+***** https://this-week-in-rust.org/blog/archives/index.html
+***** [[https://rust.libhunt.com/newsletter/archive][Awesome Rust Newsletter - Archive | LibHunt]]
+*** Mobile + Web + Embedded AI
+**** [[https://heartbeat.fritz.ai/heartbeat-fritz-ai-newsletter/home][Newsletter – Heartbeat]]
+*** Ant Design
+**** [[https://github.com/websemantics/awesome-ant-design][GitHub - websemantics/awesome-ant-design: A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date]]
+*** Data Eng + DevOps
+**** [[https://dataengweekly.com/archive.html][Data Eng Weekly]]
+**** [[https://www.dataengineeringpodcast.com/episodes/][Episodes | Data Engineering Podcast]]
+**** https://dataelixir.com/issue/ + issueNumber or https://twitter.com/dataelixir
+**** [[http://weekly.sfdata.io/#archive][SF Data Weekly | Revue]]
+**** [[https://postgresweekly.com/issues][Postgres Weekly Archives]]
+**** [[https://dbweekly.com/issues][DB Weekly Archives]]
+**** [[https://www.getrevue.co/profile/cloud-architecture#archive][Up & Running Weekly | Revue]]
+*** AI
+**** [[https://www.kdnuggets.com/tutorials/index.html][Tutorials, Overviews]]
+**** [[https://www.datasciencecentral.com/page/previous-digests][Previous Digests - Data Science Central]]
+**** [[https://www.topbots.com/?s=][Search results for "" | TOPBOTS]]
+**** [[http://newsletter.ruder.io/#archive][NLP News | Revue]]
+**** [[https://jack-clark.net/][Import AI]]
+**** https://ethical.institute/mle.html
+**** [[https://blog.acolyer.org/][the morning paper – a random walk through Computer Science research, by Adrian Colyer]]
+**** [[https://www.datascienceweekly.org/newsletters][Data Science Weekly Newsletter Archive | Data Science Weekly]]
+**** [[https://aidigest.net/digests][Archives | Weekly Artificial Intelligence Newsletter]]
+**** [[https://datamachina.substack.com/archive][Data Machina]]
+**** [[https://us10.campaign-archive.com/home/?u=6ee1802497b4ea1c66ce61da4&id=afa70be09a][Machine Learnings Newsletter]]
+**** [[http://roundup.fishtownanalytics.com/#archive][The Data Science Roundup | Revue]]
+**** [[https://towardsdatascience.com/tagged/tds-letter][Tds Letter – Towards Data Science]]
+**** [[https://opendatascience.com/][Open Data Science - Your Data Science and AI News Source]]
+**** [[https://tinyletter.com/data-is-plural/archive][Data Is Plural]]
+**** [[https://www.deeplearningweekly.com/issues/][Deep Learning Weekly | Deep Learning news from industry & academia]]

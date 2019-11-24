@@ -1,0 +1,311 @@
+
+* DATA
+** Up & Running Weekly
+*** DONE brief history of multi-cluster kubernetes
+    CLOSED: [2019-11-17 Sun 19:57]
+**** short note on kubernetes
+**** going beyond single cluster
+**** use case for multi-cluster kubernetes
+***** multi-tenancy
+***** capacity overflow/cloud bursting
+***** high availability
+***** compliance
+***** location affinity
+***** vendor lock in avoidance
+**** evolution of multicluster sig in kubernetes
+**** from ubernetes to federation
+**** where do we go from here?
+*** DONE guide to open source for microservice
+    CLOSED: [2019-11-17 Sun 20:07]
+**** container
+***** rkt / docker / freebsd-jail / lxc / openvz
+**** container orchestrator
+***** kubernetes / openshift / nomad / lxd
+**** api gateway
+***** api data and management
+***** api viewpoint and billing
+***** api control and security
+***** 3scale / api-umbrella / apigee / apiman / dreamfactory / fusio / gravitee / kong / krakend / tyk
+**** ci/cd
+***** jenkins / gitlab / buildbot / concourse / gocd / hudson / spinnaker
+**** load balancer
+***** haproxy / apache-modules / balance / distributor / github-load-balancer-director / neutrino / openloba / pen / seesaw / synapse / traefik
+**** service registry and service discovery
+***** baker-street / consul / etcd / registrator / serf / zookeeper
+**** monitoring
+***** opennms / grafana / graphite / icinga / influxdb / librenms / naemon / nagios / ntop / elk / prometheus / sensu / zabbix / zenoss
+**** the right ingredient
+*** DONE introduction to monitoring with prometheus
+    CLOSED: [2019-11-17 Sun 20:15]
+**** architecture
+**** data model
+***** counter and gauge
+***** histogram and summary
+**** prometheus and kubernetes hands-on tutorial
+***** install prometheus
+***** review basic metric
+***** golden signal
+***** test locally
+***** deploy monitoring to prometheus on kubernetes
+****** build application image
+****** deploy application
+***** generate load to test monitoring
+***** review metric
+**** summary
+*** dissecting k8s - intro to main component
+*** DONE how we built vectorized sql engine
+    CLOSED: [2019-11-17 Sun 19:57]
+**** what's in sql operator?
+**** benchmark simple operator
+**** use concreate type
+**** generate code with template
+**** batch expensive call
+**** column-oriented data
+**** conclusion
+*** DONE kubernetes made my latency 10x higher
+    CLOSED: [2019-11-17 Sun 20:33]
+**** why is latency so much higher in kubernetes than ec2?
+**** hypothesis 1: dns resolution
+**** network plumbing
+**** hypothesis 2: rogue calls to aws
+**** why was the credential expiration time shorter?
+**** takeaway
+*** DONE let's create simple load balancer with go
+    CLOSED: [2019-11-17 Sun 21:12]
+**** how does our simple load balancer work
+**** round robin selection
+**** lets define some struct
+     #+BEGIN_SRC go
+       type Backend struct {
+         URL *url.URL
+         Alive bool
+         mux sync.RWMutex
+         ReverseProxy *httputil.ReverseProxy
+       }
+     #+END_SRC
+
+#+begin_src go
+  type ServerPool struct {
+    backends []*Backend
+    current uint64
+  }
+#+end_src
+**** use of reverse proxy
+     #+begin_src go
+       u, _ := url.Parse("http://localhost:8080")
+       rp := httputil.NewSingleHostReverseProxy(u)
+
+       // initialize your server and add this as handler
+       http.HandleFunc(rp.ServeHttp)
+     #+end_src
+**** selection process
+     #+begin_src go
+       func (s *ServerPool) NextIndex() int {
+         return int(atomic.AddUint64(&s.current, uint64(1)) % uint64(len(s.backends)))
+       }
+     #+end_src
+**** picking up alive backend
+**** avoid race condition in backend struct
+**** lets load balance request
+**** route traffic only to healthy backend
+**** actively checking for healthy backend
+**** use of context
+**** passive health check
+**** conclusion
+*** DONE microcloud with few raspberry pi and k8s - part 1
+    CLOSED: [2019-11-17 Sun 21:23]
+**** background: what's cloud anyway?
+***** on-demand self-service
+***** broad network access
+***** resource pooling
+***** rapid elasticity
+***** measured service
+**** building microcloud
+***** what you'll need
+***** assembling the pi
+***** setting up os
+***** installing kubernetes
+****** bootstrap master node
+****** bootstrap worker node
+**** using our microcloud
+***** create app
+***** deploy your app
+***** expose your app
+**** we built microcloud
+**** automating thing
+*** DONE k8s app deployment with cloud native buildpack & kapp
+    CLOSED: [2019-11-17 Sun 21:31]
+**** prerequisite
+**** cluster configuration
+**** our app belafonte
+**** creating container image using cloud native buildpack
+**** yaml configuration
+***** deployment.yaml
+***** service.yaml
+***** ingress.yaml
+**** installing app with kapp
+**** deploying
+**** fetching log
+**** deleting app
+**** wrapping up
+*** DONE managing cpu load in golang
+    CLOSED: [2019-11-18 Mon 05:01]
+**** introduction
+**** what is bcrypt and why you have to be careful
+**** rate limiting cpu intensive task
+#+begin_src go
+  func CreatePool(workerNum int) Pool {
+    jobChannel := make(chan Job)
+    pool := Pool{
+      jobChannel: jobChannel,
+    }
+    for i := 0; i < workerNum; i++ {
+      go worker(jobChannel)
+    }
+    return pool
+  }
+
+  func worker(jobs <- chan bcryptJob) {
+    for job := range jobs {
+      func() {
+        defer func() {
+          _ = recover() // Important in case the job panics
+        }()
+        // Process incoming job
+      }()
+    }
+  }
+#+end_src
+#+begin_src go
+  type void = struct{}
+
+  // NewPool creates a limited pool of permissions in order to limit the number of concurrent jobs.
+  // If enqueueTimeout is greater than 0 then this is the time allowed to wait for the job to start before returning ErrEnqueueTimeout
+  func NewPool(maxWorkers int, enqueueTimeout time.Duration) Pool {
+    return &pool{
+      guard: make(chan void, maxWorkers),
+      enqueueTimeout: enqueueTimeout,
+    }
+  }
+
+  type pool struct {
+    guard chan void
+    enqueueTimeout time.Duration
+  }
+
+  func (p *pool) Run(ctx context.Context, job Runnable) error {
+    var timerChan <-chan time.Time
+    if p.enqueueTimeout > 0 {
+      timer := time.NewTimer(p.enqueueTimeout)
+      timerChan = timer.C
+      defer timer.Stop()
+    }
+    select {
+    case p.guard <- void{}:
+      answer := make(chan error)
+      defer close(answer)
+      go func() {
+        defer func() {
+          recover()
+          <-p.guard
+        }()
+        answer <- job.Run()
+      }()
+      select {
+      case err := <-answer:
+        return err
+      case <-ctx.Done():
+      }
+    case <-timerChan:
+      return ErrEnqueueTimeout
+    case <- ctx.Done():
+    }
+    return ctx.Err()
+  }
+#+end_src
+**** outsourcing calculation
+**** summary
+*** DONE managing large-scale distributed system in 2019
+    CLOSED: [2019-11-18 Mon 05:16]
+*** DONE boosting search index creation with secondary cache
+    CLOSED: [2019-11-18 Mon 05:21]
+**** introduction
+**** objective
+**** approach
+**** result
+*** DONE ddd and bulk operation
+    CLOSED: [2019-11-18 Mon 05:38]
+**** sequential processing
+**** using raw sql
+**** using specification pattern
+**** meet command pattern
+**** summary
+*** DONE jenkins ci/cd with git secret
+    CLOSED: [2019-11-18 Mon 05:40]
+**** running git-secret on jenkins
+*** DONE stop using ridiculously low dns ttl
+    CLOSED: [2019-11-18 Mon 05:47]
+*** DONE dealing with failure in distributed system
+    CLOSED: [2019-11-18 Mon 05:55]
+*** DONE pentesting kubernetes with kube-hunter
+    CLOSED: [2019-11-18 Mon 06:01]
+**** what item should you look for as part of initial test?
+***** open port (ie api call)
+***** unsecured api port (http)
+***** misconfigured rbac
+**** finding right associated with application service account including default service account
+**** pentesting from outside network
+**** pentesting kube hunter way
+**** collecting log from kubernetes cluster and from kubernetes api server
+*** DONE go to sql: creating postgres relational db
+    CLOSED: [2019-11-18 Mon 06:06]
+**** our example
+**** now, let's try to connect to it from our go application
+**** let's start coding
+**** wrap up
+*** DONE inside tensorflow
+    CLOSED: [2019-11-18 Mon 06:11]
+**** building tensorflow
+**** tensorflow project structure
+*** DONE announcing kubernetes off-the-shelf (kots)
+    CLOSED: [2019-11-18 Mon 06:14]
+**** from solid foundation
+**** kubernetes-native delivery
+**** most advanced admin option
+**** based on open source core
+**** available today
+*** DONE announcing visual studio online's public preview
+    CLOSED: [2019-11-18 Mon 06:28]
+*** DONE easing microservice on k8s with microsoft dapr
+    CLOSED: [2019-11-18 Mon 06:35]
+*** DONE beta release dgraph graphql - its inception story
+    CLOSED: [2019-11-18 Mon 06:45]
+*** DONE release announcement influxdb 1.7.9
+    CLOSED: [2019-11-18 Mon 06:45]
+*** DONE sql data mapper framework for protocol buffer
+    CLOSED: [2019-11-18 Mon 06:51]
+*** DONE postgresql 12 feature: generated column
+    CLOSED: [2019-11-18 Mon 06:51]
+*** top 30 postgresql advanced queries
+*** DONE thoughts on dns-over-https
+    CLOSED: [2019-11-18 Mon 06:59]
+*** DONE you probably shouldn't use k8s for your startup
+    CLOSED: [2019-11-18 Mon 06:59]
+*** DONE don't wait for functionless. write less function instead
+    CLOSED: [2019-11-19 Tue 06:59]
+*** DONE friday deploy freeze are exactly like murdering puppy
+    CLOSED: [2019-11-19 Tue 07:11]
+*** DONE predictive autoscaling policy for cloud-hosted microservice
+    CLOSED: [2019-11-19 Tue 07:11]
+*** DONE design scalable application with microservice in paas cloud
+    CLOSED: [2019-11-19 Tue 07:11]
+*** DONE trend, technique & open issue of containerization: review
+    CLOSED: [2019-11-19 Tue 07:11]
+*** DONE cmif: python library for scalable multiple image pipeline
+    CLOSED: [2019-11-19 Tue 07:11]
+*** how to eat elephant: one microservice at time
+*** start with modern time series database and grafana
+*** docker in blockchain project - microservice everything
+*** ci/cd in age of cloud-native
+*** promote kubernetes ci/cd to next level
+*** apply machine learning into your ci/cd pipeline

@@ -1,31 +1,56 @@
 
 # a Student of the Game
 
+Imagine that you are recently graduated from school. Or, you want to switch your career to Software Engineering and her close friends. Or, imagine that your close friend or relative ask you for the advice to make a journey to become lifelong student on Software Engineering (or life in general). This is my personal curated collection of resource that I will use if I were on those three situation. This document is structured into five roadmap and I will try to adjust each of them into three level, Basic, Intermediate, and Advanced. Basic is the resource for you to be 20% percentile. Intermediate is 80% percentile. Advanced is 97% percentile.
+
+1.  **Software Development**
+    -   Help developing right software right from zero to one.
+    -   Help shipping software. Help running shipped software effectively and efficiently. Involve scalability, availability, and reliability.
+    -   Help building good enough knowledge and skill foundation. So, when you found hard enough problem, you can dig deeper on the foundation to solve it better
+    -   Help you to get hired or promoted. Because, 80% of the cases that you need to be the student are you need to get paid (or get paid just more). I believe that to get paid is the beginning goal of our journey.
+    -   Help shipping software who communicate with each other (client-server architecture or other) or software that lay above the hardware layer and below user layer (80% current use case).
+2.  **Software Lead**
+    -   Help building best culture and principle for your team to succeed.
+    -   Help translate business requirement into software design and architecture.
+3.  **Artificial Intelligence**
+    -   Help developing intelligent computer model who can infer. My personal definition are the software who can either (1) predict, or (2) give you insight from another point of view, or (3) understand the world as if through the lens of human, or (4) automate as much as your task as possible.
+    -   Help shipping intelligent software effectively and efficiently. Scalable, available, and reliable intelligent software system.
+4.  **Business**
+    -   How to run the whole business as if you're the executive of the company. The focus are external involving business strategy and continuous shipment of value
+    -   How to design the right product or service right. Developing the right business value.
+    -   How to develop and ship business that matter for each vertical. Currently my focus are education and agriculture with co-op business model.
+5.  **Life**
+    -   How to build foundational map about how we see the world through the lens of mental model.
+    -   How to build knowledge and skill in various field (polyglot) until "the loop" itself is broken.
+    -   How to become better parent or educator.
+    -   How to become better person in general.
+    -   My personal resource about how to build your better legacy.
+
+My recommended approach is to dig "just enough" for each level and iterate it again from Basic. In parallel with those approach, I recommend to do full cycle knwoledge -> skill -> knowledge approach. Do just enough to learn, then practice, then learn again, and loop.
+
 ## Software
 
-### General
+### Computer Science Syllabus
 
--   [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
+-   [GeeksforGeeks](https://www.geeksforgeeks.org) ([LastMinuteNotes](https://www.geeksforgeeks.org/lmns-gq/) / [GATE CS Notes](https://www.geeksforgeeks.org/gate-cs-notes-gq/) / [UGC NET CS Notes Paper II](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-ii/) / [UGC NET CS Notes Paper III](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/))
 
-    -   [Short notes for GATE CSE](https://www.geeksforgeeks.org/lmns-gq/)
+-   [Courses 2019-20, Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1920/)
 
-    -   [GATE CS Topic wise preparation Notes](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
+### Algorithm and Data Structure
 
-    -   [UGC NET CS Notes according to syllabus of Paper-II](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-ii/)
+-   [Cosmos](https://github.com/OpenGenus/cosmos) - your personal offline collection of every algorithm and data structure one will ever encounter and use in a lifetime.
 
-    -   [UGC NET CS Notes according to syllabus of Paper-III (Core group)](https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/)
+-   [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures)
 
--   [Department of Computer Science and Technology – Course pages 2018–19: Courses 2018–19](https://www.cl.cam.ac.uk/teaching/1819/)
+-   [100+ Python challenging exercises](https://github.com/zhiwehu/Python-programming-exercises)
 
--   [Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter](https://github.com/OpenGenus/cosmos)
+### Interview
 
 -   [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
 -   [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
 
 -   [A curated awesome list of lists of interview questions.](https://github.com/MaximAbramchuck/awesome-interview-questions)
-
--   [100+ Python challenging programming exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100+ Python challenging programming exercises.txt)
 
 ### System Design
 
@@ -45,11 +70,11 @@
 
 -   [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
 
-### elixir-otp
+### Elixir OTP
 
--   TODO [learn-x-in-y-minutes](https://learnxinyminutes.com/) ([erlang](https://learnxinyminutes.com/docs/erlang/) [elixir](https://learnxinyminutes.com/docs/elixir/))     :page_facing_up:
+-   [learn-x-in-y-minutes](https://learnxinyminutes.com/) ([erlang](https://learnxinyminutes.com/docs/erlang/) [elixir](https://learnxinyminutes.com/docs/elixir/))     :page_facing_up:
 
--   TODO [make-a-lisp-process](https://github.com/kanaka/mal/blob/master/process/guide.md) ([erlang](https://github.com/kanaka/mal/tree/master/erlang) [elixir](https://github.com/kanaka/mal/tree/master/elixir))     :page_facing_up:
+-   [make-a-lisp-process](https://github.com/kanaka/mal/blob/master/process/guide.md) ([erlang](https://github.com/kanaka/mal/tree/master/erlang) [elixir](https://github.com/kanaka/mal/tree/master/elixir))     :page_facing_up:
 
 -   newsletter ([elixir-digest](https://elixirdigest.net/digests) [elixir-weekly](https://elixirweekly.net/issues) [awesome-elixir](https://elixir.libhunt.com/newsletter/archive))     :newspaper:
 
@@ -71,11 +96,11 @@
 
     -   [liveview-forum](https://elixirforum.com/tags/liveview)
 
-### go-rust
+### Go + Rust
 
--   TODO [learn-x-in-y-minutes](https://learnxinyminutes.com/) ([go](https://learnxinyminutes.com/docs/go/) [rust](https://learnxinyminutes.com/docs/rust/))
+-   [learn-x-in-y-minutes](https://learnxinyminutes.com/) ([go](https://learnxinyminutes.com/docs/go/) / [rust](https://learnxinyminutes.com/docs/rust/))     :page_facing_up:
 
--   TODO [make-a-lisp-process](https://github.com/kanaka/mal/blob/master/process/guide.md) ([go](https://github.com/kanaka/mal/tree/master/go) [rust](https://github.com/kanaka/mal/tree/master/rust))
+-   [make-a-lisp-process](https://github.com/kanaka/mal/blob/master/process/guide.md) ([go](https://github.com/kanaka/mal/tree/master/go) / [rust](https://github.com/kanaka/mal/tree/master/rust))     :page_facing_up:
 
 -   cheatsheet
 
@@ -85,9 +110,9 @@
 
 -   [mit-distributed-systems-courses](https://pdos.csail.mit.edu/6.824/schedule.html)
 
--   [go-training](https://github.com/ardanlabs/gotraining) ([ultimate-go](https://github.com/ardanlabs/gotraining/blob/master/topics/courses/go/README.md) [writing-web-services-in-go](https://github.com/ardanlabs/service-training) [repo](https://github.com/ardanlabs/service) [ml-ai-data-science](https://github.com/ardanlabs/training-ai) [important-reading](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md))
+-   [go-training](https://github.com/ardanlabs/gotraining) ([ultimate-go-study-guide](https://github.com/hoanhan101/ultimate-go) / [ultimate-go](https://github.com/ardanlabs/gotraining/blob/master/topics/courses/go/README.md) / [writing-web-services-in-go](https://github.com/ardanlabs/service-training) / [repo](https://github.com/ardanlabs/service) / [python-based-workflows](https://github.com/ardanlabs/training-ai/tree/master/notebook-to-production) / [machine-learning-with-go](https://github.com/ardanlabs/training-ai/tree/master/machine-learning-with-go) / [important-reading](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md))
 
--   [pingcap-training-courses](https://github.com/pingcap/talent-plan) ([distributed-systems-in-go](https://github.com/pingcap/talent-plan/tree/master/tidb) [distributed-systems-in-rust](https://github.com/pingcap/talent-plan/tree/master/dss) [tikv-deep-dive](https://tikv.org/docs/deep-dive/introduction/) [practical-networked-applications-in-rust](https://github.com/pingcap/talent-plan/tree/master/rust))
+-   [pingcap-training-courses](https://github.com/pingcap/talent-plan) ([distributed-systems-in-go](https://github.com/pingcap/talent-plan/tree/master/tidb) / [distributed-systems-in-rust](https://github.com/pingcap/talent-plan/tree/master/dss) / [tikv-deep-dive](https://tikv.org/docs/deep-dive/introduction/) / [practical-networked-applications-in-rust](https://github.com/pingcap/talent-plan/tree/master/rust))
 
 ### Data
 
@@ -105,6 +130,8 @@
 
 -   [Large-Scale Data Processing and Optimisation | 2018-2019 | Cambridge Computer Laboratory](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/index.html)
 
+-   [GitHub - binhnguyennus/awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+
 -   [A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ### Python
@@ -117,7 +144,7 @@
 
     -   [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
 
-    -   [Python](https://github.com/kanaka/mal/tree/master/python)
+    -   [mal/python.2 at master · kanaka/mal · GitHub](https://github.com/kanaka/mal/tree/master/python.2)
 
 -   [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
@@ -313,7 +340,7 @@
 
 -   [scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 
--   TODO [Machine Learning @ VU | MLVU](https://mlvu.github.io/)
+-   [Machine Learning @ VU | MLVU](https://mlvu.github.io/)
 
     -   Introduction
 
@@ -443,7 +470,7 @@
 
 -   [Episodes | Data Engineering Podcast](https://www.dataengineeringpodcast.com/episodes/)
 
--   <https://dataelixir.com/issue/> + issueNumber
+-   <https://dataelixir.com/issue/> + issueNumber or <https://twitter.com/dataelixir>
 
 -   [SF Data Weekly | Revue](http://weekly.sfdata.io/#archive)
 
